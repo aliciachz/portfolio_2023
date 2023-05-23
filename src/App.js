@@ -12,13 +12,14 @@ import CustomCursor from "./components/CustomCursor";
 import "./style.css";
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
+import Loading from "./components/Loading";
 
 function App() {
-  const [load, upadateLoad] = useState(true);
+  const [load, updateLoad] = useState(true);
 
   useEffect(() => {
     const timer = setTimeout(() => {
-      upadateLoad(false);
+      updateLoad(false);
     }, 3200);
 
     return () => clearTimeout(timer);
@@ -26,20 +27,24 @@ function App() {
 
   return (
     <Router>
-      <div className="App" id={load ? "no-scroll" : "scroll"}>
-        <Navbar />
-        <ScrollToTop />
-        <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/project" element={<Projects />} />
-          <Route path="/project/:id" element={<Detail />} />
-          <Route path="/about" element={<About />} />
-          <Route path="/resume" element={<Resume />} />
-          <Route path="*" element={<Navigate to="/"/>} />
-        </Routes>
-        <Footer />
-      </div>
-      <CustomCursor />
+      {load ? (
+        <Loading />
+      ) : (
+        <div className="App" id="scroll">
+          <Navbar />
+          <ScrollToTop />
+          <Routes>
+            <Route path="/" element={<Home />} />
+            <Route path="/project" element={<Projects />} />
+            <Route path="/project/:id" element={<Detail />} />
+            <Route path="/about" element={<About />} />
+            <Route path="/resume" element={<Resume />} />
+            <Route path="*" element={<Navigate to="/"/>} />
+          </Routes>
+          <Footer />
+          <CustomCursor />
+        </div>
+      )}
     </Router>
   );
 }

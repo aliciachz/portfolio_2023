@@ -78,7 +78,7 @@ function Detail() {
         title: "CSS 자화상 및 Facebook Emojis",
         completed: "2023",
         overview: ["HTML과 CSS만을 사용하여 역동적인 자화상을 구현", "엄격한 색상 팔레트를 고수하고 원래 디자인 원칙을 고수하면 서 픽셀 완벽한 페이스북 이모지를 구현"],
-        task: "정확한 색상 표현과 디자인 충실도를 갖춘 새심하게 제작된 Facebook 이모티콘",
+        task: ["정확한 색상 표현과 디자인 충실도를 갖춘 새심하게 제작된 Facebook 이모티콘"],
         builtby: "HTML, CSS",
         ghLink: "https://github.com/aliciachz/CSS_self-portrait",
         demoLink: "https://aliciachz.github.io/CSS_self-portrait/",

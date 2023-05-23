@@ -6,7 +6,7 @@ import Video from "../Projects/Video";
 import davich from '../../Assets/video/davich_screen_record.mp4';
 import samsung from '../../Assets/video/samsung_screen_record.mp4';
 import cjone from '../../Assets/video/cj_one_screen_record.mp4';
-import css from '../../Assets/video/css_record.mp4';
+// import css from '../../Assets/video/css_record.mp4';
 import netflix from '../../Assets/video/netflix_screen_record.mp4';
 import chatting from '../../Assets/video/chatting_record.mp4';
 import homeVideo from "../../Assets/home-video.mp4";
@@ -18,7 +18,7 @@ function Home() {
     { src: samsung, name: 'Samsung Screen Record', type: 'Samsung_Electro_Mechanics', title: 'Screen Record', slug: 'Samsung' },
     { src: cjone, name: 'CJ One Screen Record', type: 'CJ_One', title: 'Screen Record', slug: 'cjone' },
     { src: netflix, name: 'Netflix Screen Record', type: 'Netflix_Korea', title: 'Screen Record', slug: 'Netflix' },
-    { src: css, name: 'CSS Record', type: 'Pure CSS', title: 'Record', slug: 'css' },
+    // { src: css, name: 'CSS Record', type: 'Pure CSS', title: 'Record', slug: 'css' },
     { src: chatting, name: 'Chatting Record', type: 'Chatting App', title: 'Record', slug: 'Chatting app' },
   ];
 
