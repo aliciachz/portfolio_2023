@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/portfolio_2023/static/css/main.cfac0ee4.css",
+    "main.js": "/portfolio_2023/static/js/main.f637fac1.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio_2023/static/js/787.1ed0c42c.chunk.js",
+    "static/media/netflix_screen_record.mp4": "/portfolio_2023/static/media/netflix_screen_record.f996635546804bc5f3eb.mp4",
+    "static/media/chatting_record.mp4": "/portfolio_2023/static/media/chatting_record.6c45a5f6ef530e0f6228.mp4",
+    "static/media/davich_screen_record.mp4": "/portfolio_2023/static/media/davich_screen_record.0900e588747e29323f20.mp4",
+    "static/media/cj_one_screen_record.mp4": "/portfolio_2023/static/media/cj_one_screen_record.b1a82db3f61093ead6a2.mp4",
+    "static/media/reactflix.png": "/portfolio_2023/static/media/reactflix.39422dfc0274ebd1d23a.png",
+    "static/media/samsung_screen_record.mp4": "/portfolio_2023/static/media/samsung_screen_record.ac58b18b210f32a32845.mp4",
+    "static/media/main.png": "/portfolio_2023/static/media/main.89517335f031725abc31.png",
+    "static/media/chatting.png": "/portfolio_2023/static/media/chatting.de6321bae1a1597aa21e.png",
+    "static/media/samsung.png": "/portfolio_2023/static/media/samsung.87885ce9c7f7cabbe808.png",
+    "static/media/davich.png": "/portfolio_2023/static/media/davich.a852fac7f1ec4d52ec37.png",
+    "static/media/cjone.png": "/portfolio_2023/static/media/cjone.d50b54496218f0927c83.png",
+    "static/media/css.png": "/portfolio_2023/static/media/css.6fa45df96254df80bea4.png",
+    "static/media/home-video.mp4": "/portfolio_2023/static/media/home-video.ba8288f64f64207964f7.mp4",
+    "static/media/Alicia_certification.pdf": "/portfolio_2023/static/media/Alicia_certification.d844550d252f5666f92a.pdf",
+    "static/media/css_record.mp4": "/portfolio_2023/static/media/css_record.be5942f968537afb5dc5.mp4",
+    "static/media/logo.gif": "/portfolio_2023/static/media/logo.6970617fc581c3f7071b.gif",
+    "static/media/home-main.png": "/portfolio_2023/static/media/home-main.e9d4df3c00bee30577e5.png",
+    "static/media/Resume_EN.pdf": "/portfolio_2023/static/media/Resume_EN.f58d6ab8d8d994dab460.pdf",
+    "static/media/html_logo.png": "/portfolio_2023/static/media/html_logo.8b28f2969ffa843c62a4.png",
+    "static/media/react_logo.png": "/portfolio_2023/static/media/react_logo.58219f955ce9aada2820.png",
+    "static/media/css_logo.png": "/portfolio_2023/static/media/css_logo.9c024119f8529fa5230a.png",
+    "static/media/jquery_logo.png": "/portfolio_2023/static/media/jquery_logo.17f5875c480e27dc9ef8.png",
+    "static/media/scss_logo.png": "/portfolio_2023/static/media/scss_logo.2e87b190e993e9bfa143.png",
+    "static/media/js_logo.png": "/portfolio_2023/static/media/js_logo.d575df5b30bc9c12339d.png",
+    "index.html": "/portfolio_2023/index.html",
+    "main.cfac0ee4.css.map": "/portfolio_2023/static/css/main.cfac0ee4.css.map",
+    "main.f637fac1.js.map": "/portfolio_2023/static/js/main.f637fac1.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio_2023/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfac0ee4.css",
+    "static/js/main.f637fac1.js"
+  ]
+}
