@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio_2023/static/css/main.cfac0ee4.css",
-    "main.js": "/portfolio_2023/static/js/main.f637fac1.js",
+    "main.css": "/portfolio_2023/static/css/main.921b788a.css",
+    "main.js": "/portfolio_2023/static/js/main.3ecd87d5.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio_2023/static/js/787.1ed0c42c.chunk.js",
     "static/media/netflix_screen_record.mp4": "/portfolio_2023/static/media/netflix_screen_record.f996635546804bc5f3eb.mp4",
     "static/media/chatting_record.mp4": "/portfolio_2023/static/media/chatting_record.6c45a5f6ef530e0f6228.mp4",
@@ -28,12 +28,12 @@
     "static/media/scss_logo.png": "/portfolio_2023/static/media/scss_logo.2e87b190e993e9bfa143.png",
     "static/media/js_logo.png": "/portfolio_2023/static/media/js_logo.d575df5b30bc9c12339d.png",
     "index.html": "/portfolio_2023/index.html",
-    "main.cfac0ee4.css.map": "/portfolio_2023/static/css/main.cfac0ee4.css.map",
-    "main.f637fac1.js.map": "/portfolio_2023/static/js/main.f637fac1.js.map",
+    "main.921b788a.css.map": "/portfolio_2023/static/css/main.921b788a.css.map",
+    "main.3ecd87d5.js.map": "/portfolio_2023/static/js/main.3ecd87d5.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio_2023/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cfac0ee4.css",
-    "static/js/main.f637fac1.js"
+    "static/css/main.921b788a.css",
+    "static/js/main.3ecd87d5.js"
   ]
 }
