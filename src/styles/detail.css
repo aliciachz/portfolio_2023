@@ -1,0 +1,82 @@
+.blind {
+  opacity: 0;
+}
+
+.space {
+  margin-right: 50px;
+}
+
+.title {
+  font-weight: bold;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 5px;
+  transform: perspective(600px) rotateX(20deg);
+  transition: transform 0.5s;
+}
+
+.title:hover {
+  transform: perspective(600px) rotateX(0deg);
+}
+
+.detail-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2rem;
+  font-size: 1.2rem;
+  line-height: 1.5;
+  text-align: center;
+  color: #fff;
+  perspective: 600px;
+}
+
+.detail-section {
+  margin-top: 2rem;
+  width: 100%;
+  max-width: 800px;
+  transform: rotateY(20deg);
+  transition: transform 0.5s;
+}
+
+.detail-section:hover {
+  transform: rotateY(0deg);
+}
+
+.detail-section h2 {
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+  color: #fff;
+}
+
+.detail-section p {
+  margin: 0;
+}
+
+.detail-section ul {
+  list-style: disc;
+  margin-top: 1rem;
+  margin-left: 2rem;
+}
+
+.detail-section li {
+  margin-bottom: 0.5rem;
+}
+
+.technology-icons {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.tech-icon {
+  width: 100px;
+  height: 100px;
+  margin-right: 3px;
+  transform: rotateZ(20deg);
+  transition: transform 0.5s;
+}
+
+.tech-icon:hover {
+  transform: rotateZ(0deg);
+}
