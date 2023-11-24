@@ -40,8 +40,8 @@ function Detail() {
         overview: "TMDB와 연동하여 REACT 와 FIREBASE를 사용해 영화 애플리케이션을 반응형 SPA 제작",
         task: ["STYLED-COMPONENTS: 일부 컴포넌트 STYLED-COMPONENTS 를 사용해 스타일 적용", "AXIOS: AXIOS를 사용한 API호출로 데이터 전달", "(USEEFFECT/USESTATE): HOOK함수를 사용해 데이터 전달 및 관리", "FIREBASE: FIREBASE의 인증 서비스를 사용해 이메일 및 소셜 로그인 기능 구현", "SWIPER.JS: SWIPE 라이브러리로 영화 배열의 스와이프 기능을 구현", "DEBOUNCING: 검색 창에 키보드 타이핑이 끝날때 까지 기다리는 사용자 함수 생성", "반응형: 다양한 디바이스에서 최적화된 사용자 경험 제공"],
         builtby: "HTML, CSS, REACT, FIREBASE, STYLED COMPONENTS",
-        ghLink: "https://github.com/aliciachz/davich_site_2023",
-        demoLink: "https://aliciachz.github.io/davich_site_2023/",
+        ghLink: "https://github.com/aliciachz/reactflix_app_2023",
+        demoLink: "https://aliciachz.github.io/reactflix_app_2023/",
     },
     {
         id: "CHATTING APP",
